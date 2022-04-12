@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nestor Osorio</h1>
-<h3 align="center">A passionate about software development, I am a software engineering student, my passion and love for development lies in being able to transform ideas into realities with very clean and elegant interfaces, I live in constant learning of new technologies and architectures to develop quality software.</h3>
+<h3 align="center">A passionate about software development, I am a software engineering student, my passion and love for development lies in being able to transform ideas into realities with very clean, elegant and functional interfaces, I live in constant learning of new technologies and architectures to develop quality software.</h3>
 
 - 🌱 I’m currently learning **Web Development and Framework**
 
